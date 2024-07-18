@@ -1,0 +1,19 @@
+body{background-color: grey;}
+p{font-size: 20px;
+border:1px solid black;
+display:inline;}
+#par1{color:blue}
+#par2{border:1px solid black; color:yellow}
+.headings{text-decoration: underline;}
+#head2{color:darkgreen}
+a:link{text-decoration: none;
+background-color: darkgreen;
+color:white;
+padding: 10px;
+display:inline-block;}
+a:visited{text-decoration: none;
+background-color: darkgreen;
+color:white;
+padding: 10px;
+display:inline-block;}
+a:hover{background-color: maroon; color:blue}
